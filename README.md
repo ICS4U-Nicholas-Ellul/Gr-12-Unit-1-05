@@ -1,2 +1,8 @@
 # Gr-12-Unit-1-05
-A dice rolling guessing game
+/****************************************************************************
+ *
+ * Created by: Nicholas Ellul
+ * Created on: Sept 2016
+ * This is a dice roll guessing game.
+ *
+ ****************************************************************************/
